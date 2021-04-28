@@ -1,0 +1,72 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.container{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #f8f870;
+    
+}
+
+.titulo{
+    font-family: sans-serif;
+    color: white;
+    margin-bottom: 30px;
+    text-shadow: 1px 1px 1px black;
+    
+}
+
+.meio{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 600px;
+    height: 500px;
+    border-radius: 8px;
+    box-shadow: 1px 1px 5px black;
+    margin-bottom: 20px;
+}
+
+.tit-hora{
+    font-family: sans-serif;
+    font-size: 20pt;
+}
+
+.imagem{
+    
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+}
+
+.bom-algo{
+    font-family: sans-serif;
+    font-size: 16pt;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 14pt;
+    color: white;
+    text-shadow: .5px .5px 1px black;
+}
+
+.dia{
+    background-color:#e2cd9f
+}
+
+.tarde{
+    background-color: #b9846f
+}
+
+.noite{
+    background-color: #515154
+}
