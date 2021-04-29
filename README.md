@@ -1,8 +1,8 @@
 # Hora_do_dia
 
-Olá. tudo bem?? Fiz esse projeto aqui que meche com o objeto Date() no javascript
+# #Olá. tudo bem?? Fiz esse projeto aqui que mexe com o objeto Date() no javascript
 
-## O sistema consiste em
+### O sistema consiste em
 
 * Um título que diz que horas são, porém não atualiza automaticamente, somente atualizando a página.
 * Uma tela de bom dia com sua devida estilização, imagem e título escrito "Bom dia".
